@@ -186,6 +186,7 @@ var myWordClock = {
         // No need to update clock or run any more code until the time changes
         if (!(time == this.oldTime)){
             if (this.DEVMODE){
+                document.getElementById('devMode').innerHTML = "Dev mode: on";
                 document.getElementById('timeString').innerHTML = "Real time: " + this.timeToWords(h,m,false);
                 document.getElementById('timeString-approx').innerHTML = "Approx time: " + this.timeToWords(h,m,true);
             }
