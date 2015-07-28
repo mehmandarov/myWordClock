@@ -1,5 +1,5 @@
 # MyWordClock
-A simple word clock. It tells what the time is in simple words.
+A simple word clock. It tells what the time is in words.
 
 ![Preview of MyWordClock ver. 1.0](https://cloud.githubusercontent.com/assets/5373549/8635008/87dd1e0c-2811-11e5-967f-95dc51a6a599.png)
 
