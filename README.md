@@ -5,3 +5,6 @@ A simple word clock. It tells the time in words.
 
 ## Installation
 Clone the repository, or just copy the files. Open ```index.html```. Enjoy.
+
+## Demo
+http://mehmandarov.com/lab/myWordClock
